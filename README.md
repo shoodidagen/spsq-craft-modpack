@@ -11,5 +11,5 @@ tbc
 --V1.0
 ---------
 -Start of project
-  creation of repository
-  start import of working tested mods
+>creation of repository
+>start import of working tested mods
