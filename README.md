@@ -1,18 +1,18 @@
-# spsq-craft-modpack
-SPSQ linux minecraft server custom modpack and resource repository
+# SPSQ Minecraft Modpack
+---
+## ![shoodidagenandspsq.png](https://www.dropbox.com/s/btsbruy1n2wmsiy/shoodidagenandspsq.png?dl=0&raw=1)
 
-Current versions
+This is a custom modpack and resource repository compiled from .jar files that have passed testing on a linix based forge minecraft server. I dont own most of the coding put into these files however needed a repository in order to grab these from the linux server using Git Clone. Stong attempts will be made to tag or at least mention the code authors.
+## V1.0
 
-Minecraft java 1.16.5
+## File list
 
-Forge-36.0.42
+- AppleSkin-mc1.16.2-forge-1.0.14.jar - [squeek502]
+- 
 
--How to use
+---
 
-Tbc
-for git clone
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
--V1.0
->Creation of repository
-
->Start import of working tested mods
+   [squeek502]: <https://www.curseforge.com/minecraft/mc-mods/appleskin>
+   
