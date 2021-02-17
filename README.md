@@ -7,9 +7,10 @@ Minecraft java 1.16.5
 
 Forge-36.0.42
 
-Instructions:
+-How to use
 
 Tbc
+for git clone
 
 --V1.0
 ---------
