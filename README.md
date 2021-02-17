@@ -79,7 +79,7 @@ code
    [Corail_31]: <https://www.curseforge.com/members/corail_31/projects>
    [baumkuchen2]: <https://www.curseforge.com/members/baumkuchen2/projects>
    [OreCruncher]: <https://www.curseforge.com/members/orecruncher/projects>
-   [wilechaote] : <https://www.curseforge.com/members/wilechaote/projects>
+   [wilechaote]: <https://www.curseforge.com/members/wilechaote/projects>
    [MrCrayfish]: <https://www.curseforge.com/members/mrcrayfish/projects>
    [ProgWML6]: <https://www.curseforge.com/members/progwml6/projects>
    [mezz]: <https://www.curseforge.com/members/mezz/projects>
