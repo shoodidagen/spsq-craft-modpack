@@ -12,11 +12,7 @@ Forge-36.0.42
 Tbc
 for git clone
 
---V1.0
----------
-
--Start of project
-
+-V1.0
 >Creation of repository
 
 >Start import of working tested mods
