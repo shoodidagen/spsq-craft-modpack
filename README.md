@@ -30,7 +30,6 @@ This is a custom modpack and resource repository compiled from .jar files that h
 - goldenhopper-1.1.1-1.16.3.jar - [MrCrayfish]
 - ironchest-1.16.4-11.2.10.jar - [ProgWML6]
 - jei-1.16.4-7.6.1.71.jarr - [mezz]
-- jumploader-2.1.2.jar - [comp500]
 - KleeSlabs_1.16.3-9.2.0.jar - [BlayTheNinth]
 - AdLods-1.16.4-4.1.3.0-build.0034.jar - Requires 'ForgeEndertech' - [EnderLanky]
 - mcw-bridges-1.0.5-mc1.16.5-4.jar - [sketch_macaw]
@@ -47,7 +46,6 @@ This is a custom modpack and resource repository compiled from .jar files that h
 - Runelic-1.16.5-7.0.1.jar - [DarkhaxDev]
 - shutupexperimentalsettings-1.0.3.jar - [Corgi_Taco]
 - sit-1.16.2-v1.3.jar - [bl4ckscor3]
-- staffofbuilding-1.2.5-1.16.5.jar - [Draylar1]
 - StorageDrawers-1.16.3-8.2.2.jar - [Texelsaur]
 - structure_gel-1.16.4-1.7.5.jar - [ModdingLegacy]
 - the_bumblezone-1.16.5-2.2.14.jar - [telepathicgrunt]
@@ -104,5 +102,3 @@ code
    [HyCraftHD]: <https://www.curseforge.com/members/hycrafthd/projects>
    [ValhelsiaTeam]: <https://www.curseforge.com/members/valhelsiateam/projects>
    [BlayTheNinth]: <https://www.curseforge.com/members/blaytheninth/followers>
-   [Draylar1]: <https://www.curseforge.com/members/draylar1/projects>
-   [comp500]: <https://www.curseforge.com/members/comp500/projects>
