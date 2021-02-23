@@ -2,7 +2,7 @@
 ---
 ## ![shoodidagenandspsq.png](https://www.dropbox.com/s/btsbruy1n2wmsiy/shoodidagenandspsq.png?dl=0&raw=1)
 
-This is a custom modpack and resource repository compiled from .jar files that have passed testing on a linix based forge minecraft server. I dont own most of the coding put into these files however needed a repository in order to grab these from the linux server using Git Clone. Stong attempts will be made to tag or at least mention the code authors.
+This is a custom modpack and resource repository compiled from .jar files that have passed testing on a Linux based forge Minecraft server. I don't own most of the coding put into these files however needed a repository in order to grab these from the Linux server using Git Clone. Strong attempts will be made to tag or at least mention the code authors.
 ## V1.0
 
 ## File list including dependencies
@@ -40,7 +40,7 @@ This is a custom modpack and resource repository compiled from .jar files that h
 - mysticalworld-1.16.4-0.3.1.8.jar - needs 'Patchouli-1.16.4-50.jar' - [EpicSquid315]
 - NetherPortalFix_1.16.3-7.2.1.jar - [BlayTheNinth]
 - Patchouli-1.16.4-50.jar - [Vazkii]
-- pipez-1.16.5-1.0.11.jar - [henkelmax]
+- pipez-1.16.5-1.0.13.jar - [henkelmax]
 - pneumaticcraft-repressurized-1.16.5-2.9.5-128.jary - [desht_08]
 - rats-7.1.1-1.16.5.jar - [alex1the1666]
 - [disabled]RealisticTorches-1.16.5-3.1.2.jar - [Chaosyr]
@@ -53,7 +53,7 @@ This is a custom modpack and resource repository compiled from .jar files that h
 - the_bumblezone-1.16.5-2.2.14.jar - [telepathicgrunt]
 - tumbleweed-1.16-0.4.9.jar - [konwboj]
 - u_team_core-1.16.4-3.1.17.192.jar - [HyCraftHD]
-- car-1.16.5-1.0.1.jar - [henkelmax]
+- car-1.16.5-1.0.3.jar - [henkelmax]
 - useful_backpacks-1.16.4-1.11.6.87.jar - needs 'u_team_core-1.16.4-3.1.17.192.jar' - [HyCraftHD]
 - useful_railroads-1.16.4-1.4.6.35.jar - needs 'u_team_core-1.16.4-3.1.17.192.jar' - [HyCraftHD]
 - valhelsia_structures-16.0.5.jar - [ValhelsiaTeam]
