@@ -7,6 +7,15 @@ This is a custom modpack and resource repository compiled from .jar files that h
 
 ## File list including dependencies
 
+Resource packs
+
+- Unity-1.16.X-Base-2.4.0.zip - [theCyanideX]
+- Unity-1.16.X-Dark-0.7.0.zip - [theCyanideX]
+- Unity-1.16.X-Extras-1.1.0.zip - [theCyanideX]
+
+
+Mod packs
+
 - AdFinders-1.16.4-5.0.6.0-build.0042.jar - Requires 'ForgeEndertech' - [EnderLanky]
 - AdHooks-1.16.4-6.1.3.1-build.0039.jar  - Requires 'ForgeEndertech' - [EnderLanky]
 - AppleSkin-mc1.16.2-forge-1.0.14.jar - [squeek502]
@@ -106,3 +115,4 @@ code
    [BlayTheNinth]: <https://www.curseforge.com/members/blaytheninth/followers>
    [Draylar1]: <https://www.curseforge.com/members/draylar1/projects>
    [comp500]: <https://www.curseforge.com/members/comp500/projects>
+   [theCyanideX]: <https://www.curseforge.com/members/thecyanidex/projects>
