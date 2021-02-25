@@ -3,7 +3,9 @@
 ## ![shoodidagenandspsq.png](https://www.dropbox.com/s/btsbruy1n2wmsiy/shoodidagenandspsq.png?dl=0&raw=1)
 
 This is a custom modpack and resource repository compiled from .jar files that have passed testing on a Linux based forge Minecraft server. I don't own most of the coding put into these files however needed a repository in order to grab these from the Linux server using Git Clone. Strong attempts will be made to tag or at least mention the code authors.
-## V1.0
+## V1.1
+- addition of 'lock-and-key-1.16.4-1.0.1.jar' to secure inventory blocks with named key
+- updates of various mod .jar files
 
 ## File list including dependencies
 
@@ -42,6 +44,7 @@ Mod packs
 - jumploader-2.1.2.jar - [comp500]
 - KleeSlabs_1.16.3-9.2.0.jar - [BlayTheNinth]
 - AdLods-1.16.4-4.1.3.0-build.0034.jar - Requires 'ForgeEndertech' - [EnderLanky]
+- lock-and-key-1.16.4-1.0.1.jar - [ModdingLegacy]
 - mcw-bridges-1.0.5-mc1.16.5-4.jar - [sketch_macaw]
 - mcw-roofs-2.0.1-mc1.16.5-4.jar - [sketch_macaw]
 - Mekanism-1.16.5-10.0.21.448.jar - [bradyaidanc]
@@ -116,3 +119,4 @@ code
    [Draylar1]: <https://www.curseforge.com/members/draylar1/projects>
    [comp500]: <https://www.curseforge.com/members/comp500/projects>
    [theCyanideX]: <https://www.curseforge.com/members/thecyanidex/projects>
+   [ModdingLegacy]: <https://www.curseforge.com/members/moddinglegacy/projects>
