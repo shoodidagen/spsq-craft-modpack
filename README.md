@@ -3,7 +3,15 @@
 ## ![shoodidagenandspsq.png](https://www.dropbox.com/s/btsbruy1n2wmsiy/shoodidagenandspsq.png?dl=0&raw=1)
 
 This is a custom modpack and resource repository compiled from .jar files that have passed testing on a Linux based forge Minecraft server. I don't own most of the coding put into these files however needed a repository in order to grab these from the Linux server using Git Clone. Strong attempts will be made to tag or at least mention the code authors.
-## V1.1
+## 
+V1.2
+- addition of 'treeharvester_1.16.5-2.3.jar'
+- Xaeros_Minimap_21.4.0_Forge_1.16.5.jar
+- Placebo-1.16.4-4.4.1.jar (library)
+- FastFurnace-1.16.4-4.4.0.jar
+- various updates to existing jar files
+
+V1.1
 - addition of 'lock-and-key-1.16.4-1.0.1.jar' to secure inventory blocks with named key
 - updates of various mod .jar files
 
@@ -36,6 +44,7 @@ Mod packs
 - Craftable Elytras Mod 1_16_x.jar - [baumkuchen2]
 - DarkUtilities-1.16.5-8.0.3.jar - requires 'Runelic' - [DarkhaxDev]
 - DynamicSurroundings-1.16.4-4.0.3.11.jar - [OreCruncher]
+- FastFurnace-1.16.4-4.4.0.jar - [Shadows_of_Fire]
 - ForgeEndertech-1.16.4-7.0.10.0-build.0037.jar - LIBRARY not a mod - [EnderLanky]
 - rsgauges-1.16.4-1.2.8.jar - [wilechaote]
 - goldenhopper-1.1.1-1.16.3.jar - [MrCrayfish]
@@ -53,6 +62,7 @@ Mod packs
 - NetherPortalFix_1.16.3-7.2.1.jar - [BlayTheNinth]
 - Patchouli-1.16.4-50.jar - [Vazkii]
 - pipez-1.16.5-1.0.15.jar - [henkelmax]
+- Placebo-1.16.4-4.4.1.jar - [Shadows_of_Fire]
 - pneumaticcraft-repressurized-1.16.5-2.10.1-140.jar - [desht_08]
 - rats-7.1.1-1.16.5.jar - [alex1the1666]
 - [disabled]RealisticTorches-1.16.5-3.1.2.jar - [Chaosyr]
@@ -63,6 +73,7 @@ Mod packs
 - StorageDrawers-1.16.3-8.2.2.jar - [Texelsaur]
 - structure_gel-1.16.4-1.7.5.jar - [ModdingLegacy]
 - the_bumblezone-1.16.5-2.2.14.jar - [telepathicgrunt]
+- treeharvester_1.16.5-2.3.jar - [Serilum]
 - tumbleweed-1.16-0.4.9.jar - [konwboj]
 - u_team_core-1.16.4-3.1.17.192.jar - [HyCraftHD]
 - car-1.16.5-1.0.3.jar - [henkelmax]
@@ -70,6 +81,7 @@ Mod packs
 - useful_railroads-1.16.4-1.4.6.35.jar - needs 'u_team_core-1.16.4-3.1.17.192.jar' - [HyCraftHD]
 - valhelsia_structures-16.0.5.jar - [ValhelsiaTeam]
 - Waystones_1.16.3-7.3.1.jar - [BlayTheNinth]
+- Xaeros_Minimap_FP21.4.0_Forge_1.16.5.jar - [xaero96]
 
 ## Git Clone Insrtuctions for updating current directory
 
@@ -120,3 +132,5 @@ code
    [comp500]: <https://www.curseforge.com/members/comp500/projects>
    [theCyanideX]: <https://www.curseforge.com/members/thecyanidex/projects>
    [ModdingLegacy]: <https://www.curseforge.com/members/moddinglegacy/projects>
+   [xaero96]: <https://www.curseforge.com/members/xaero96/projects>
+   [Shadows_of_Fire]: <https://www.curseforge.com/members/shadows_of_fire/projects>
