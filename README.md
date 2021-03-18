@@ -3,18 +3,23 @@
 ## ![shoodidagenandspsq.png](https://www.dropbox.com/s/btsbruy1n2wmsiy/shoodidagenandspsq.png?dl=0&raw=1)
 
 This is a custom modpack and resource repository compiled from .jar files that have passed testing on a Linux based forge Minecraft server. I don't own most of the coding put into these files however needed a repository in order to grab these from the Linux server using Git Clone. Strong attempts will be made to tag or at least mention the code authors.
-## 
+##
+
+V2.0
+- Big jump here as updated Forge itself to forge-36.1.0 (as some of the mods below have been updated and needed a newer version)
+- Various MOD files now updated
+
 V1.2
-- addition of 'treeharvester_1.16.5-2.3.jar'
-- Xaeros_Minimap_21.4.0_Forge_1.16.5.jar
-- Placebo-1.16.4-4.4.1.jar (library)
-- FastFurnace-1.16.4-4.4.0.jar
+- addition of 'treeharvester'
+- Xaeros_Minimap
+- Placebo (library)
+- FastFurnace
 - various updates to existing jar files
 
 V1.1
-- addition of 'lock-and-key-1.16.4-1.0.1.jar' to secure inventory blocks with named key
+- addition of 'lock-and-key' to secure inventory blocks with named key
 - updates of various mod .jar files
-
+=======================================================================
 ## File list including dependencies
 
 Resource packs
@@ -24,7 +29,7 @@ Resource packs
 - Unity-1.16.X-Extras-1.1.0.zip - [theCyanideX]
 
 
-Mod packs
+Mod packs (VERSIONS ARE LIKELY OLD AS I DONT KEEP THESE NUMBERS UP TO DATE)
 
 - AdFinders-1.16.4-5.0.6.0-build.0042.jar - Requires 'ForgeEndertech' - [EnderLanky]
 - AdHooks-1.16.4-6.1.3.1-build.0039.jar  - Requires 'ForgeEndertech' - [EnderLanky]
