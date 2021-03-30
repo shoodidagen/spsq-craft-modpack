@@ -4,6 +4,9 @@
 
 This is a custom modpack and resource repository compiled from .jar files that have passed testing on a Linux based forge Minecraft server. I don't own most of the coding put into these files however needed a repository in order to grab these from the Linux server using Git Clone. Strong attempts will be made to tag or at least mention the code authors.
 ##
+v2.2
+- various existing mod updates
+- addition of 'One Player Sleeping' - oneplayersleeping-1.16.4-0.0.5.jar
 
 V2.0
 - Big jump here as updated Forge itself to forge-36.1.0 (as some of the mods below have been updated and needed a newer version)
@@ -87,6 +90,7 @@ Mod packs (VERSIONS ARE LIKELY OLD AS I DONT KEEP THESE NUMBERS UP TO DATE)
 - valhelsia_structures-16.0.5.jar - [ValhelsiaTeam]
 - Waystones_1.16.3-7.3.1.jar - [BlayTheNinth]
 - Xaeros_Minimap_FP21.4.0_Forge_1.16.5.jar - [xaero96]
+- oneplayersleeping-1.16.4-0.0.5.jar - [JayJay1989BE]
 
 ## Git Clone Insrtuctions for updating current directory
 
@@ -129,6 +133,7 @@ code
    [bl4ckscor3]: <https://www.curseforge.com/members/bl4ckscor3/projects>
    [Texelsaur]: <https://www.curseforge.com/members/texelsaur/projects>
    [telepathicgrunt]: <https://www.curseforge.com/members/telepathicgrunt/projects>
+   [JayJay1989BE]: <https://www.curseforge.com/members/jayjay1989be/projects>
    [konwboj]: <https://www.curseforge.com/members/konwboj/projects>
    [HyCraftHD]: <https://www.curseforge.com/members/hycrafthd/projects>
    [ValhelsiaTeam]: <https://www.curseforge.com/members/valhelsiateam/projects>
